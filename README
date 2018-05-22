@@ -1,0 +1,9 @@
+github repo:
+
+https://github.com/morgothB/ScienceCompanyTestProject
+
+Instructions:
+
+*Install postgesql, create database "test_database"
+*Create user "test_user" with password "123"
+*Done! App will init test_database itself.
