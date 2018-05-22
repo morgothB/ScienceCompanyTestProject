@@ -23,7 +23,6 @@ public class MainApp extends Application {
     @Override
     public void start(Stage stage){
             iniUtil.mainUtil();
-
             this.mainStage = stage;
             mainStage.setOnCloseRequest(new EventHandler<WindowEvent>() {
                 @Override
