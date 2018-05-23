@@ -6,4 +6,4 @@ Instructions:
 
 *Install postgesql, create database "test_database"
 *Create user "test_user" with password "123"
-*Done! App will init test_database itself.
+*Done! App will init test_database itself. Login and password for authrorization are both "0".
